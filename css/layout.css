@@ -1,0 +1,34 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+
+#left-column{
+	width:20%;
+	float:left;
+	display:block;
+	margin : 1%;
+	border:1px solid blue;
+	background:#F63;	
+
+}
+#center-column{
+	width: 50%;
+	float:left;
+	display:block;	
+	margin : 1%;
+	
+	background:#FFF;
+	
+	
+}
+
+#right-column{
+	width:20%;
+	float:left;
+	display:block;
+	margin : 1%;
+	border:1px solid blue;
+	background:#0F0;
+}
